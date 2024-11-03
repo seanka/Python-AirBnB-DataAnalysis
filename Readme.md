@@ -37,4 +37,5 @@ Notes for the files in this repository:
 * **Airbnb Listings Bangkok.csv**&nbsp;&nbsp;: Raw AirBnB Listing Bangkok data
 * **Airbnb Listings Bangkok Data Dictionary.pdf**&nbsp;&nbsp;: Raw AirBnB Listing Bangkok data dictionary for explanation for each colum
 * **cleanedData.csv**&nbsp;&nbsp;: Cleaned data from missing values and outliers for tableau data source
+* **PPT Capstone.pptx**&nbsp;&nbsp;: Power point slide presentation
 * **Readme.md**&nbsp;&nbsp;: Readme file for github repository
